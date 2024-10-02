@@ -13,6 +13,9 @@ export const metadata: Metadata = {
   title: "Lustrum FST 2024",
   description:
     "Lustrum merupakan program kerja yang diselenggarakan oleh bidang Public Relations Forum Studi Teknik 2024. Pada tahun ini, Forum Studi Teknik akan merayakan dies natalisnya-nya yang ke 20 tahunsejak pertama kali didirikan oleh para mahasiswa Fakultas Teknik Undip. Kegiatan perayaan dies natalis FST Undip diperingati setiap lima tahun sekali, itu berarti pada tahun ini akan peringati sebagai Lustrum ke-III FST Undip.",
+  icons: {
+    icon: "/images/favicon.ico",
+  },
 };
 
 export default function RootLayout({
